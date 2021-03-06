@@ -1,2 +1,30 @@
+* {
+  margin: 0%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
 .header {
+  padding: 20px;
+  background-color: tomato;
+  color: darkblue;
+}
+
+.header h1 {
+  background-color: darkcyan;
+  text-align: center;
+  font-size: 50px;
+}
+
+.header nav {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-size: 25px;
+}
+
+.header nav ul {
+  list-style-type: none;
+}
+.header nav ul li {
+  display: inline-block;
 }
