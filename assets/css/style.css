@@ -1,11 +1,11 @@
 * {
   margin: 0%;
+  background-color: dimgray;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .header {
   padding: 20px;
-  background-color: tomato;
   color: darkblue;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .header nav {
-  padding-top: 15px;
+  padding-top: 30px;
   margin-right: 20px;
   float: right;
   font-size: 25px;
@@ -27,4 +27,22 @@
 }
 .header nav ul li {
   display: inline-block;
+}
+
+figure {
+  position: ;
+  padding: 20px;
+  text-align: center;
+}
+
+#contact-info {
+}
+
+.name {
+}
+.email {
+}
+.button {
+}
+.footer {
 }
