@@ -29,12 +29,26 @@
   display: inline-block;
   text-align: justify;
 }
+a:link,
+a:visited {
+  background-color: white;
+  color: mediumvioletred;
+  border: 2px solid black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 
-figure {
+a:hover,
+a:active {
+  background-color: gray;
+  color: white;
+}
+.gallery {
   margin-top: 60px;
   padding: 20px;
   text-align: center;
-  width: ;
   border: solid red;
 }
 
