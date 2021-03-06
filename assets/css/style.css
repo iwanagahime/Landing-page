@@ -1,25 +1,25 @@
 * {
   margin: 0%;
-  background-color: dimgray;
+
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .header {
   padding: 20px;
-  color: darkblue;
-}
-
-.header h1 {
-  background-color: darkcyan;
+  color: palevioletred;
+  border: solid red;
+  background-color: silver;
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .header nav {
-  padding-top: 30px;
+  padding-top: 10px;
   margin-right: 20px;
+  margin-top: 10px;
   float: right;
   font-size: 25px;
+  border: solid red;
 }
 
 .header nav ul {
@@ -27,22 +27,36 @@
 }
 .header nav ul li {
   display: inline-block;
+  color: darkolivegreen;
 }
 
 figure {
-  position: ;
+  margin-top: 20px;
   padding: 20px;
   text-align: center;
+  border: solid red;
 }
 
 #contact-info {
+  margin-top: 20px;
+  border: solid red;
+  background-color: silver;
+}
+#contact-info h2 {
+  font-size: 30px;
+  text-align: center;
 }
 
 .name {
+  text-align: center;
 }
 .email {
+  text-align: center;
 }
 .button {
+  text-align: center;
 }
 .footer {
+  margin-top: 20px;
+  border: solid red;
 }
