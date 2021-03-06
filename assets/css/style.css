@@ -6,7 +6,7 @@
 
 .header {
   padding: 20px;
-  color: palevioletred;
+  color: mediumvioletred;
   border: solid red;
   background-color: silver;
   text-align: center;
@@ -16,7 +16,7 @@
 .header nav {
   padding-top: 10px;
   margin-right: 20px;
-  margin-top: 10px;
+  margin-top: 30px;
   float: right;
   font-size: 25px;
   border: solid red;
@@ -27,13 +27,14 @@
 }
 .header nav ul li {
   display: inline-block;
-  color: darkolivegreen;
+  text-align: justify;
 }
 
 figure {
-  margin-top: 20px;
+  margin-top: 60px;
   padding: 20px;
   text-align: center;
+  width: ;
   border: solid red;
 }
 
